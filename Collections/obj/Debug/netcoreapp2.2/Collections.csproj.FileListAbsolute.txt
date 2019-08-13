@@ -1,0 +1,11 @@
+/Users/seangillespie/Desktop/C#/Collections/bin/Debug/netcoreapp2.2/Collections.deps.json
+/Users/seangillespie/Desktop/C#/Collections/bin/Debug/netcoreapp2.2/Collections.runtimeconfig.json
+/Users/seangillespie/Desktop/C#/Collections/bin/Debug/netcoreapp2.2/Collections.runtimeconfig.dev.json
+/Users/seangillespie/Desktop/C#/Collections/bin/Debug/netcoreapp2.2/Collections.dll
+/Users/seangillespie/Desktop/C#/Collections/bin/Debug/netcoreapp2.2/Collections.pdb
+/Users/seangillespie/Desktop/C#/Collections/obj/Debug/netcoreapp2.2/Collections.csprojAssemblyReference.cache
+/Users/seangillespie/Desktop/C#/Collections/obj/Debug/netcoreapp2.2/Collections.csproj.CoreCompileInputs.cache
+/Users/seangillespie/Desktop/C#/Collections/obj/Debug/netcoreapp2.2/Collections.AssemblyInfoInputs.cache
+/Users/seangillespie/Desktop/C#/Collections/obj/Debug/netcoreapp2.2/Collections.AssemblyInfo.cs
+/Users/seangillespie/Desktop/C#/Collections/obj/Debug/netcoreapp2.2/Collections.dll
+/Users/seangillespie/Desktop/C#/Collections/obj/Debug/netcoreapp2.2/Collections.pdb
